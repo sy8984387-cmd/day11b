@@ -15,4 +15,10 @@ git push -u origin main
 git log
 git log --oneline
 
-git show commit_id //commit id show karega usko coppy kar legana hai
+git show commit_id 
+git rm filename
+git revert --continue
+
+Commit pe click karoge
+
+git push
