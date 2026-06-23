@@ -5,8 +5,14 @@ git config user.name "sy8984387-cmd"
 git config user.email "sy8984387@gmail.com"
 git remote add origin https://github.com/sy8984387-cmd/day11b.git
 git config --list
+
 git add.
 git status
 git commit -m "First File added"
 git branch -M main
 git push -u origin main
+
+git log
+git log --oneline
+
+git show commit_id //commit id show karega usko coppy kar legana hai
